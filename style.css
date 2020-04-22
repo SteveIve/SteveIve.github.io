@@ -23,4 +23,6 @@ em {
     background-color: rgba(255, 146, 5, 0.87);
     border-radius: 7px;
     color:black;
+    padding-left: 10px;
+    padding-right: 10px;
 }
