@@ -18,3 +18,8 @@ h1 {
     border-bottom: 3px solid white;
     text-align: center;
 }
+em {
+    font-style: normal;
+    background-color: rgba(255, 146, 5, 0.87);
+    border-radius: 7px;
+}
