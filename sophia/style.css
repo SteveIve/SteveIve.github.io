@@ -13,3 +13,8 @@ body {
     padding-bottom: 25px;
     padding-right:25px;
 }
+
+h1 {
+    border-bottom: 3px solid rgb(196, 122, 122);
+    text-align: center;
+}
